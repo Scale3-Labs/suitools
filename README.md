@@ -26,7 +26,7 @@ chmod +x upgrade_suidocker.sh
 ```
 
 # Sui Node Checker
-# Devnet 
+## Devnet 
 Use this to validate
 https://www.scale3labs.com/check/sui/devnet
 
