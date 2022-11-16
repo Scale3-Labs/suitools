@@ -6,6 +6,16 @@ Check out www.scale3labs.com for more
 To use the Sui Docker update script:
 
 - Download the script
-```curl https://raw.githubusercontent.com/Scale3-Labs/suitools/main/scripts/upgrade_suidocker.sh ```
+
+```script
+curl https://raw.githubusercontent.com/Scale3-Labs/suitools/main/scripts/upgrade_suidocker.sh 
+```
+
 - Change permissions
+```
+chmod +x upgrade_suidocker.sh
+```
 - Execute the script
+```
+./upgrade_suidocker.sh
+```
