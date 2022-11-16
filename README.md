@@ -2,17 +2,20 @@
 
 This repo contains open source tooling created by Scale3 Labs for monitoring and maintaining your Sui nodes. 
 
-Check out www.scale3labs.com for more
+Check out www.scale3labs.com for more. 
 
 # Sui Docker Upgrade Script
 
-Use this script to upgrade your Sui nodes running on Docker. Checkout our guide for setting up a Sui node on Docker. https://medium.com/scale3-labs/setup-and-run-a-sui-full-node-a4f3224e71c3
+Use this script to upgrade your Sui nodes running on Docker. The script will upgrade your node to the latest node software and start the sui node.
 
-To use the Sui Docker update script:
+Checkout our guide for setting up a Sui node on Docker. https://medium.com/scale3-labs/setup-and-run-a-sui-full-node-a4f3224e71c3
+
+To use the Sui Docker update script login to your Sui node via ssh and follow these steps:
 
 - Download the script
 
 ```script
+cd $HOME/sui
 curl https://raw.githubusercontent.com/Scale3-Labs/suitools/main/scripts/upgrade_suidocker.sh 
 ```
 
