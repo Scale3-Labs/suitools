@@ -15,13 +15,13 @@ To use the Sui Docker update script login to your Sui node via ssh and follow th
 - Download the script
 
 ```script
-cd $HOME/sui
+cd $HOME/sui;
 curl https://raw.githubusercontent.com/Scale3-Labs/suitools/main/scripts/upgrade_suidocker.sh 
 ```
 
 - Change permissions
 ```
-chmod +x upgrade_suidocker.sh
+chmod a+x upgrade_suidocker.sh
 ```
 - Execute the script
 ```
