@@ -30,11 +30,11 @@ chmod a+x upgrade_suidocker.sh
 
 # Sui Node Checker
 ## Devnet 
-Use this to validate
+Use this to validate whether your node is syncing.
 https://www.scale3labs.com/check/sui/devnet
 
 ## Sui Nodes Monitoring Dashboard
-Sign up to request early access here https://gzr9hedzug3.typeform.com/to/yVT5CA3h
+Want to monitor and get alerted about your node? Sign up to request early access here https://gzr9hedzug3.typeform.com/to/yVT5CA3h
 
 ## Join our Discord 
 https://discord.com/invite/h74CkNv4h9
