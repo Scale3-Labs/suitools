@@ -6,6 +6,8 @@ Check out www.scale3labs.com for more
 
 # Sui Docker Upgrade Script
 
+Use this script to upgrade your Sui nodes running on Docker. Checkout our guide for setting up a Sui node on Docker. https://medium.com/scale3-labs/setup-and-run-a-sui-full-node-a4f3224e71c3
+
 To use the Sui Docker update script:
 
 - Download the script
